@@ -12,7 +12,7 @@
 	
 	tar xf riscv64-linux-x86_64.tbz2 -C toolchain
 	
-### Setup prebuilt QEMU
+### Setup QEMU
 	
 	mkdir qemu
 	
