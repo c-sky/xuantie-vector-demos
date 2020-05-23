@@ -1,5 +1,7 @@
 # Quickstart
 
+Follow the steps and verify case on qemu
+
 ## Step1: Setup tools
 
 ### Setup prebuilt GCC toolchain
