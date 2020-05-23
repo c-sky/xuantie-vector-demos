@@ -18,9 +18,7 @@
 	
 	tar xf csky-qemu-x86_64-Ubuntu-16.04-20200512-1231.tar.gz -C qemu
 	
-### Setup QEMU from source
-
-Use branch **vector-upstream-v3** to build for vector extention instruction.
+you can also build qemu from source code:
 
 	git clone https://github.com/romanheros/qemu.git -b vector-upstream-v3
 	
