@@ -1,6 +1,8 @@
 # Quickstart
 
-## Step1: Setup prebuilt tools
+## Step1: Setup tools
+
+### Setup prebuilt GCC toolchain
 
 	git clone https://github.com/c-sky/xuantie-vector-demos.git
 	
