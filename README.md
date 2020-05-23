@@ -1,6 +1,6 @@
 # Quickstart
 
-Follow the steps and verify case on qemu
+Follow the steps and verify case on qemu for vector instruction.
 
 ## Step1: Setup tools
 
