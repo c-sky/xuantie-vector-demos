@@ -20,7 +20,7 @@ Use prebuilt qemu for Ubuntu-16.04 host on X86-64 platform:
 	
 	tar xf csky-qemu-x86_64-Ubuntu-16.04-20200512-1231.tar.gz -C qemu
 	
-you can also build qemu from source code for other host:
+For other host, you can also build qemu from source code:
 
 	git clone https://github.com/romanheros/qemu.git -b vector-upstream-v3
 	
@@ -33,7 +33,7 @@ you can also build qemu from source code for other host:
 More infomation please reference [here](https://github.com/romanheros/qemu.git).
 
 	
-## Step2: Build case for running on QEMU
+## Step2: Build case
 
 	./toolchain/bin/riscv64-unknown-linux-gnu-gcc -O2 test/run/vlbuv_uint32xm2-1.c
 	
