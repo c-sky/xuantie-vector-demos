@@ -39,7 +39,7 @@ More infomation please reference [here](https://github.com/romanheros/qemu.git).
 	
 More unit test of vector please reference test/gcc
 
-## Step3: Run case on QEMU
+## Step3: Run case
 
 ### Run on prebuilt qemu
 
