@@ -14,7 +14,7 @@
 	
 ### Setup QEMU
 	
-Use prebuilt qemu for Ubuntu-16.04 host on X86_64 platform:
+Use prebuilt qemu for Ubuntu-16.04 host on X86-64 platform:
 
 	mkdir qemu
 	
