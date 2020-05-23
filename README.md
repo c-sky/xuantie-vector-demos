@@ -14,11 +14,13 @@
 	
 ### Setup QEMU
 	
+Use prebuilt qemu for Ubuntu-16.04 host on X86_64 platform:
+
 	mkdir qemu
 	
 	tar xf csky-qemu-x86_64-Ubuntu-16.04-20200512-1231.tar.gz -C qemu
 	
-you can also build qemu from source code:
+you can also build qemu from source code for other host:
 
 	git clone https://github.com/romanheros/qemu.git -b vector-upstream-v3
 	
