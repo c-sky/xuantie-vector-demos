@@ -24,7 +24,7 @@ Use prebuilt qemu for Ubuntu-16.04 host on X86-64 platform:
 	
 For other host, you can also build qemu from source code:
 
-	git clone https://github.com/romanheros/qemu.git -b vector-upstream-v3
+	git clone https://github.com/qemu/qemu.git
 	
 	cd qemu
 	
